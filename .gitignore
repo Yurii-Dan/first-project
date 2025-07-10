@@ -193,3 +193,5 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 expenses.csv
+arithmetic_mean.py
+tax_calc.py
