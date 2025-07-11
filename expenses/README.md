@@ -17,6 +17,7 @@ item amount
 For example:
 вода 100
 овочі 50
+
 👉 Press Enter after each line.
 Type `stop` to finish entry.
 
@@ -40,14 +41,17 @@ Type `stop` to finish entry.
 
 ## 📁 File Structure
 
+```
 expenses/
-├── expenses.py # Input interface
-├── analyze_expenses.py # Summary analysis
-├── visualize_expenses.py # Chart visualization
+├── expenses.py              # Input interface
+├── analyze_expenses.py      # Summary analysis
+├── visualize_expenses.py    # Chart visualization
 ├── images/
-│ ├── Figure_1.png
-│ └── Figure_2.png
-└── expenses.csv # Stored data (in .gitignore)
+│   ├── Figure_1.png
+│   └── Figure_2.png
+└── expenses.csv             # Stored data (in .gitignore)
+```
+
 
 ## ⚠️ Note
 
