@@ -12,11 +12,10 @@ This project is a simple Python-based expense tracker. It allows users to:
 ## 🧾 How it works
 
 1. Run `expenses.py` to add new expenses.  
-   Enter each expense in the format: `item amount`  
-   For example:
-вода 100
-овочі 50
-
+Enter each expense in the format: `item amount`  
+For example:  
+вода 100  
+овочі 50  
 👉 Press Enter after each line.  
 Type `stop` to finish entry.
 
