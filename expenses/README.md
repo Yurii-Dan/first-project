@@ -13,12 +13,12 @@ This project is a simple Python-based expense tracker. It allows users to:
 
 1. Run `expenses.py` to add new expenses.  
 2. Enter each expense in the format:
-item amount
+item amount  
 For example:
 вода 100
 овочі 50
 
-👉 Press Enter after each line.
+👉 Press Enter after each line.  
 Type `stop` to finish entry.
 
 2. Run `analyze_expenses.py` to get:
