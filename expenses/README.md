@@ -60,8 +60,3 @@ expenses/
 - All dates are automatically generated at the time of entry.
 - This tool is useful for individuals and entrepreneurs (e.g., those paying simplified tax rates) who want to track income/expenses accurately.
 
-## 📅 Date Filter Support
-
-`analyze_expenses.py` allows filtering data by start and end dates in format `YYYY-MM-DD`.
-
-
