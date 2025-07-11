@@ -12,9 +12,8 @@ This project is a simple Python-based expense tracker. It allows users to:
 ## 🧾 How it works
 
 1. Run `expenses.py` to add new expenses.  
-2. Enter each expense in the format:
-item amount  
-For example:
+   Enter each expense in the format: `item amount`  
+   For example:
 вода 100
 овочі 50
 
@@ -24,6 +23,7 @@ Type `stop` to finish entry.
 2. Run `analyze_expenses.py` to get:
 - Summary by category
 - Summary by day
+- Optional filtering by date range (format `YYYY-MM-DD`)
 
 3. Run `visualize_expenses.py` to generate:
 - A line chart showing daily totals
@@ -53,7 +53,8 @@ expenses/
 ```
 
 
-## ⚠️ Note
+
+## ⚠️ Notes
 
 - `expenses.csv` is excluded from Git tracking using `.gitignore`.
 - All dates are automatically generated at the time of entry.
